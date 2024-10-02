@@ -72,4 +72,4 @@ Of course, the catalogue needs some maintenance, so the clerks can add and delet
 5. List at least 2 high-level requirements not captured in the use case model. e.g. timing requirements (1 mark)
 
 ## Submission:
- Answer all questions in an `.md` file and ensure that your use case diagram is added to your repo. Please commit your work to your repo and ensure that it is pushed back upstream to the GitHub Classroom. 
+ Answer all questions in an `.md` file and ensure that your use case diagram is added to your repo. Please commit your work to your repo and ensure that it is pushed back upstream to the GitHub Classroom. Please submit the link to your repo in the assignment for this lab on Moodle.
