@@ -16,7 +16,7 @@ Typically, the Use Case diagram will be accompanied with descriptive text descri
 
 ## Tools for Developing Use Case Diagrams
 
-There are a number of tools that are available to develop the visual case diagram which will give us the high-level representation of our system requirements.  A tool that is available in the labs is Visio (from Microsoft) which provides a the option to build a number of different [UML diagrams]() and specifically [use case diagrams](https://support.microsoft.com/en-us/office/create-a-uml-use-case-diagram-92cc948d-fc74-466c-9457-e82d62ee1298).
+There are a number of tools that are available to develop the visual case diagram which will give us the high-level representation of our system requirements.  A tool that you can use is Visio (from Microsoft) which provides the option to build a number of different [UML diagrams]() and specifically [use case diagrams](https://support.microsoft.com/en-us/office/create-a-uml-use-case-diagram-92cc948d-fc74-466c-9457-e82d62ee1298).
 
 Other online tools can also be used (at a free tier level) such as:
 
